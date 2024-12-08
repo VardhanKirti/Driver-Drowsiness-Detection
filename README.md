@@ -20,10 +20,16 @@ If eyes are closed for more interval of time with the help of play sound applica
 
 Threading and Time:
 Library for handling threading and time operation. 
+
+
 ![image](https://github.com/user-attachments/assets/dff6c182-59a9-4dc7-a2ef-98fb1b6beef1)
 
+
 ![image](https://github.com/user-attachments/assets/3a77b9f6-3eba-4738-af51-713d33ba89e6)
+
+
 ![image](https://github.com/user-attachments/assets/e8b809ff-85f0-4849-911e-3987dabe302c)
+
 ![image](https://github.com/user-attachments/assets/774c6f5f-4c9c-4b3d-b29a-fc9061377f15)
 
 
